@@ -1,0 +1,15 @@
+2024/11/24 09:32:34 [::1] GET /risk-assessment/identify/123 200 78.726µs
+{"level":"info","msg":"请求体：{}","time":"2024-11-24T09:44:37+08:00"}
+2024/11/24 09:44:37 [::1] GET /risk-assessment/identify/123 200 1.826397ms
+{"level":"info","msg":"请求体：{}","time":"2024-11-24T09:46:07+08:00"}
+{"level":"info","msg":"请求头：map[Accept:[*/*] Accept-Encoding:[gzip, deflate, br] Authorization:[valid-token] Connection:[keep-alive] User-Agent:[Apifox/1.0.0 (https://apifox.com)]]","time":"2024-11-24T09:46:07+08:00"}
+{"level":"info","msg":"请求参数：map[]","time":"2024-11-24T09:46:07+08:00"}
+{"level":"info","msg":"请求方法：GET","time":"2024-11-24T09:46:07+08:00"}
+{"level":"info","msg":"请求路径：/risk-assessment/identify/123","time":"2024-11-24T09:46:07+08:00"}
+{"level":"info","msg":"请求协议：HTTP/1.1","time":"2024-11-24T09:46:07+08:00"}
+2024/11/24 09:46:07 [::1] GET /risk-assessment/identify/123 200 1.663394ms
+{"level":"info","msg":"请求：\u0026{GET /risk-assessment/identify/123 HTTP/1.1 1 1 map[Accept:[*/*] Accept-Encoding:[gzip, deflate, br] Authorization:[valid-token] Connection:[keep-alive] User-Agent:[Apifox/1.0.0 (https://apifox.com)]] {} \u003cnil\u003e 0 [] false localhost:8080 map[] map[] \u003cnil\u003e map[] [::1]:50237 /risk-assessment/identify/123 \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e  0xc00021a050 \u003cnil\u003e [] map[]}","time":"2024-11-24T09:48:31+08:00"}
+{"level":"info","msg":"响应：\u0026{0xc000236000 69 200}","time":"2024-11-24T09:48:31+08:00"}
+2024/11/24 09:48:31 [::1] GET /risk-assessment/identify/123 200 2.544207ms
+{"level":"info","msg":"Processing request","request":"123","time":"2024-11-24T09:53:44+08:00"}
+2024/11/24 09:53:44 [::1] GET /risk-assessment/identify/123 200 2.771324ms
